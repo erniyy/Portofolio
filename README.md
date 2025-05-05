@@ -21,7 +21,7 @@ I am a passionate and detail-oriented Computer Engineering graduate with hands-o
 - Selenium WebDriver
 - Katalon Studio
 - Git & GitHub
-- [SQL (MySQL).(https://github.com/erniyy/SQL.git)]
+- [SQL (MySQL)](https://github.com/erniyy/SQL.git)]
 - Postman 
 - IntelliJ IDEA
 - WordPress
