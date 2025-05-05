@@ -4,7 +4,7 @@
 I am a passionate and detail-oriented Computer Engineering graduate with hands-on experience in software quality assurance. I have been involved in both manual and automated testing projects, ERP system development, and educational content creation. I bring a combination of technical expertise and communication skills, with a strong eagerness to continuously learn and contribute to impactful software solutions.
 
 ## 📄 CV
-[Download my CV](https://drive.google.com/your-cv-link-here](https://drive.google.com/file/d/1j7DZpD6vGp3vnqJqIzN3xLH-LcYTd_bD/view?usp=sharing))
+[Download my CV](https://drive.google.com/file/d/1j7DZpD6vGp3vnqJqIzN3xLH-LcYTd_bD/view?usp=drive_link)
 
 ## 💡 Skills
 - **Manual Testing**: Test case design, execution, bug reporting
